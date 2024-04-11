@@ -1,0 +1,2 @@
+# Oatapp_Swagger_Test
+本项目是通过Oatpp+Swagger ui 实现的一个Web服务框架的测试项目，swaggerUI显示，需要修改SwaggerComponent.h文件中的swagger res的路径，需保证一致
